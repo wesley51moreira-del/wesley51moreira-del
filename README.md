@@ -41,15 +41,6 @@
 
 ---
 
-<h2 align="center">🚀 O que você vai encontrar aqui</h2>
-
-- Projetos acadêmicos e experimentos em **Python, Node.js, SQL e Power BI**  
-- **Automação e relatórios** com Excel e Dashboards  
-- Estudo e aplicação de **PDTI e PETI**  
-- Exercícios de **redes, infraestrutura e suporte técnico**  
-
----
-
 <h3 align="center">🔥 Minhas Estatísticas</h3>
 
 <div align="center">
