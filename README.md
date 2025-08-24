@@ -8,6 +8,15 @@
 </div>
 
 ---
+<h3 align="center">🔥 Minhas Estatísticas</h3>
+
+<div align="center">
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wesley51moreira-del&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
+---
 
 <p align="center">
   <img 
@@ -38,18 +47,6 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,css,html,nodejs,mysql,aws,linux,windows,vscode,git,github" height="40" alt="skills logos" />
 </div>
-
----
-
-<h3 align="center">🔥 Minhas Estatísticas</h3>
-
-<div align="center">
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wesley51moreira-del&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley51moreira-del&theme=dracula&hide_border=false&border_radius=10" height="150" />
-</div
 
 ---
 
