@@ -53,7 +53,10 @@
 <h3 align="center">🔥 Minhas Estatísticas</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wesley51moreira-del&show_icons=true&theme=tokyonight&hide_border=false" height="150" />
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=wesley51moreira-del&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley51moreira-del&theme=dracula&hide_border=false&border_radius=10" height="150" />
 </div
 
@@ -62,3 +65,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="gif ilustrativo">
 </p>
+
+
+
+
+
