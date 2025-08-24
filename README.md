@@ -54,7 +54,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wesley51moreira-del&show_icons=true&theme=tokyonight&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wesley51moreira-del&layout=compact&langs_count=6&theme=tokyonight&hide_border=false" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wesley51moreira-del&theme=dracula&hide_border=false&border_radius=10" height="150" />
 </div
 
