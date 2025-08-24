@@ -42,7 +42,7 @@
 
 ---
 
-<h3 align="center">🛠 Linguagens e Ferramentas</h3>
+<h3 align="center">  📊 Linguagens e Ferramentas</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,css,html,nodejs,mysql,aws,linux,windows,vscode,git,github" height="40" alt="skills logos" />
